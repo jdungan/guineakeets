@@ -16,6 +16,9 @@
 h1, h2, h3, p, .thumbnail{
     color: black;
 }
+#sft {
+  color:firebrick;
+}
 
 .thumbnail > img {
     display: block;
